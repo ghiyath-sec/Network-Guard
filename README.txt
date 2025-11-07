@@ -73,12 +73,7 @@ If you encounter issues:
 - User is responsible for legal usage
 - Recommended to test in controlled environments first
 
-🔄 Version Information:
-=======================
-Version: 2.0
-Release Date: 2024
-Developer: Network Security Team
-
 =========================================================
 🛡️ Keep Your Network Secure with Network Guard Pro!
+
 =========================================================
